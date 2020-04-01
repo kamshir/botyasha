@@ -6,7 +6,7 @@ import datetime
 import data
 
 # Токен группы
-token = 'b6350f067b8b6f7f86090e36f9a05fe26e640a595b190c709bd65855d17e6dd5ca05ff2bd0b1347cb1fce'
+token = ''
 
 # Подключение
 vk  = vk_api.VkApi(token=token)
